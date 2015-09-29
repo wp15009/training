@@ -1,0 +1,324 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"txet-",
+				"text-decoration"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"bo",
+				"border-right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "list",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 279.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/okumatomoaki/Documents/training/osusume.html",
+		"/C/Users/okumatomoaki/Documents/HTML5_CSS3/sample_a html.2nd/index.html",
+		"/C/Users/okumatomoaki/Documents/HTML5_CSS3/sample_c html.4th/index.html",
+		"/C/Users/okumatomoaki/Documents/HTML5_CSS3/sample_c html.4th/chapter8.html",
+		"/C/Users/okumatomoaki/Documents/daily/furikaeri.md",
+		"/C/Users/okumatomoaki/Documents/HTML5_CSS3/sample_b html.3rd/index.html",
+		"/C/Users/okumatomoaki/Documents/html.basic2/style.css",
+		"/C/Users/okumatomoaki/Documents/html.basic2/vegetable.html",
+		"/C/Users/okumatomoaki/Documents/html.basic2/template.html",
+		"/C/Users/okumatomoaki/Documents/html.basic2/news.html",
+		"/C/Users/okumatomoaki/Documents/html.basic2/index.html",
+		"/C/Users/okumatomoaki/Documents/html.basic2/fruit.html",
+		"/C/Users/okumatomoaki/Documents/html.basic2/contact.html",
+		"/C/Users/okumatomoaki/Documents/html.basic2/company.html",
+		"/C/Users/okumatomoaki/Documents/html.basic2/.gitignore",
+		"/C/Users/okumatomoaki/Documents/html.basic2/README.md",
+		"/C/Users/okumatomoaki/AppData/Roaming/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/C/Users/okumatomoaki/Documents/daily/README.md",
+		"/C/Users/okumatomoaki/Documents/html.basic/README.md",
+		"/C/Users/okumatomoaki/Documents/test/test.md",
+		"/C/Users/okumatomoaki/Documents/tutorial/README.md",
+		"/C/Users/okumatomoaki/Documents/tutorial/sample.md",
+		"/C/Users/okumatomoaki/Documents/tutorial2/sample.md",
+		"/C/Users/okumatomoaki/Desktop/# web製作者のためのSublime Textの教科書",
+		"/C/Users/okumatomoaki/AppData/Roaming/Sublime Text 3/Packages/User/# web製作者のためのSublime Textの教科書",
+		"/C/Users/okumatomoaki/Documents/daily/daily.sublime-project",
+		"/C/Users/okumatomoaki/Documents/tutorial/test.md",
+		"/C/Users/okumatomoaki/Desktop/tutorial2/sample.md",
+		"/C/Users/okumatomoaki/Desktop/tutorial2/test.md",
+		"/C/Users/okumatomoaki/Documents/tutorial/新しいテキスト ドキュメント.txt",
+		"/C/Users/okumatomoaki/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h1",
+			"h2",
+			")\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"5"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "osusume.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"contact.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
